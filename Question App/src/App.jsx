@@ -66,6 +66,7 @@ function App() {
   return (
     
       <div className="App">
+        {/*If answer isn't empty*/}
         {answer !== "" &&
         <div>
           <div>
